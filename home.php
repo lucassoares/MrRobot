@@ -14,9 +14,6 @@
 	    src="https://code.jquery.com/jquery-3.2.1.min.js"
 	    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
 	    crossorigin="anonymous"></script>
-		<script type="text/javascript">
-			
-		</script>
 		<style type="text/css">
 				::selection{
 		  background: red;
@@ -49,19 +46,19 @@
 					<p class="lead">Este e o inicio de uma grande jornada</p>
 				</div>
 				<div class="col-sm-3">
-					<a href=""><img src="img/Angela.jpg" alt="" class="img-responsive thumbnail"></a>
+					<a href="profile.php?profile=1"><img src="img/Angela.jpg" alt="" class="img-responsive thumbnail"></a>
 					<h3>Angela</h3>
 				</div>
 				<div class="col-sm-3">
-					<a href=""><img src="img/Elliot.jpg" alt="" class="img-responsive thumbnail"></a>
+					<a href="profile.php?profile=2"><img src="img/Elliot.jpg" alt="" class="img-responsive thumbnail"></a>
 					<h3>Elliot</h3>
 				</div>
 				<div class="col-sm-3">
-					<a href=""><img src="img/Robot.jpg" alt="" class="img-responsive thumbnail"></a>
+					<a href="profile.php?profile=3"><img src="img/Robot.jpg" alt="" class="img-responsive thumbnail"></a>
 					<h3>Mr Robot</h3>
 				</div>
 				<div class="col-sm-3">
-					<a href=""><img src="img/Darlene.jpg" alt="" class="img-responsive thumbnail"></a>
+					<a href="profile.php?profile=4"><img src="img/Darlene.jpg" alt="" class="img-responsive thumbnail"></a>
 					<h3>Darlene</h3>
 				</div>
 			</div>

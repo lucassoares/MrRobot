@@ -11,7 +11,7 @@
     src="https://code.jquery.com/jquery-3.2.1.min.js"
     integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
     crossorigin="anonymous"></script>
-    <script type="text/javascript">
+      <script type="text/javascript">
       $(document).ready(function(){
         var campoPreenchido;
          function ValidarCampos(id){
@@ -22,7 +22,7 @@
               $(id).css({'border-color':'#CCC'});
             }
           }
-        $('#btnLogin').click(function(){
+          $('#btnLogin').click(function(){
           campoPreenchido = false;
           ValidarCampos('#emailLogin');
           ValidarCampos('#pwdLogin');
